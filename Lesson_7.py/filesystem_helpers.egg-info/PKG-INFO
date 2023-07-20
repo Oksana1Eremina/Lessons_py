@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: filesystem-helpers
+Version: 1.0
+
+Description
+===========
+
+Package contains methods to work with files and directories.
